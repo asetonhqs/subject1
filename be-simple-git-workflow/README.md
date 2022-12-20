@@ -2,7 +2,12 @@
 
 ### please fork it and follow the instruction to get pair's code dynamically
 
-무엇인가가 설정 되었습니다.
+### 이 Repository를 fork한 후 pair와 함께 Simple Git Workflow를 연습하세요.
+
+
+### 이 스프린트는 제출할 필요는 없습니다.
+
+### 공통사항 추가
+
 <br />
-무엇인가가 설정 되었습니다.
-king kunta xddasdasdasd asdasdas
+
